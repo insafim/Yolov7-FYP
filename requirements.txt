@@ -37,3 +37,16 @@ thop  # FLOPs computation
 # albumentations>=1.0.3
 # pycocotools>=2.0  # COCO mAP
 # roboflow
+
+pip~=22.2.2
+zlib~=1.2.12
+wheel~=0.37.1
+brotli~=1.0.9
+openssl~=1.1.1s
+cryptography~=37.0.1
+tornado~=6.2
+typing_extensions~=4.3.0
+setuptools~=63.4.1
+future~=0.18.2
+yaml~=0.2.5
+shapely~=1.8.4
